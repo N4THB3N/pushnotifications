@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133025534332",
+    "project_id": "flutter-notificaciones-e408c",
+    "storage_bucket": "flutter-notificaciones-e408c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133025534332:android:d9b05b4338cadb5efa94f9",
+        "android_client_info": {
+          "package_name": "com.natancastaneda.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133025534332-s46ckq3boi0d51uaq5h049nmbf36mv69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natancastaneda.notifications",
+            "certificate_hash": "022148c27a72a277b8f92e3b04b1004f6e6cbf44"
+          }
+        },
+        {
+          "client_id": "133025534332-oekl2q02pqhui0ce1k7s1cerep1b69po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpiUzdbPPWFVNVOXuMDUj4COIlD1dwkWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133025534332-oekl2q02pqhui0ce1k7s1cerep1b69po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
